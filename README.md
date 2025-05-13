@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-## Name :Muthulakshmi D
-## Reg: 212223040122
+## Name :RADHIMEENA M
+## Reg: 212223040159
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
